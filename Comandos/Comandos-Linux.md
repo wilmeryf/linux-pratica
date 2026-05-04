@@ -94,7 +94,7 @@ Comandos utilizados durante práticas no terminal, com explicações diretas.
 
 ## Git (Controle de Versão)
 
-`git clone https://github.com/wilmeryf/linuxmint`  
+`git clone https://github.com/wilmeryf/linux-pratica`  
 ↳ Clona um repositório para o computador.
 
 `git config --global user.name "Seu Nome"`  
