@@ -30,7 +30,7 @@ Durante as aulas foram realizadas atividades como:
 - Criação de máquina virtual no VirtualBox
 - Criação e configuração de disco (HD virtual)
 - Gerenciamento de discos no sistema Linux
-- Execução de comandos no terminal
+- Execução de [comandos](Comandos/Comandos-Linux.md) no terminal
 - Instalação de programas e configuração básica
 
 ---
